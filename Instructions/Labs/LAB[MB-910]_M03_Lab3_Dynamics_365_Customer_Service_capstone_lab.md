@@ -292,11 +292,11 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 Ora che è stata identificata una soluzione al problema del cliente, si procederà a risolvere il caso, Il primo passaggio della chiusura di un caso consiste nel chiudere gli impegni aperti associati al caso. 
 
-1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza. Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 2. Nella finestra **Chiudi attività** verificare che lo stato sia Completato e selezionare il pulsante **Chiudi**. Lo stato dell'attività dovrebbe essere **Chiusa**. 
 
-3. Passare il puntatore su **Richiamare Piper** creato in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+3. Passare il puntatore su **Richiamare Piper** creato in precedenza. Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 4. Nella schermata **Chiudi telefonata** verificare che **Stato** sia **Completato** e che **Stato** sia **Effettuata**. Selezionare il pulsante **Chiudi**. Verificare che l'impegno sia visualizzato come chiuso nella sequenza temporale. 
 

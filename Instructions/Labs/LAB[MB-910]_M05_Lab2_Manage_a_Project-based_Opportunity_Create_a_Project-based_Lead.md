@@ -86,7 +86,7 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 10. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
-11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15**.**  
+11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15.  
 
 12. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"**.
 

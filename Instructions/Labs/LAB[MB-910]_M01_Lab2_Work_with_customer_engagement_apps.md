@@ -22,7 +22,7 @@ Durante questo esercizio, si noterà che è molto facile accedere alle diverse a
 
 In questo esercizio verrà illustrato come accedere alle diverse applicazioni Customer Engagement di Dynamics 365 usando la schermata Home di Dynamics 365. 
 
-1. In un Web browser passare a [**https://home.dynamics.com**](https://home.dynamics.com/)** Verranno visualizzate tutte le applicazioni a cui si ha accesso. 
+1. In un Web browser passare a [**https://home.dynamics.com**](https://home.dynamics.com/) Verranno visualizzate tutte le applicazioni a cui si ha accesso. 
 
 2. Per ridurre il numero di applicazioni visualizzate, selezionare l'**Icona del filtro** accanto al pulsante Ottieni altre app. 
 

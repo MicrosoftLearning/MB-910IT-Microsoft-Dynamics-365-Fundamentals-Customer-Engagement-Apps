@@ -312,4 +312,4 @@ Dopo aver creato un ordine cliente, l'ordine verrà chiuso e verrà generata una
 
 4. Sulla **barra dei comandi** dell'ordine selezionare il pulsante **Crea fattura**. 
 
-5. Una volta aperto il record della fattura, selezionare **Fattura pagata*.
+5. Una volta aperto il record della fattura, selezionare **Fattura pagata**.

@@ -40,7 +40,7 @@ Dynamics 365 Sales Insights è una suite di strumenti di intelligenza artificial
 
 	- Dal record dell'account esaminare l'elenco di opportunità aperte
 
-	Mostrare come alle diverse opportunità elencate siano associati punteggi
+	- Mostrare come alle diverse opportunità elencate siano associati punteggi
 
 	- Aprire un'opportunità
 

@@ -67,5 +67,5 @@ Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 
 21. Fare clic nella casella Cerca risorse nella scheda di pianificazione (disponibile sopra la colonna del nome della risorsa), immettere Ryan e individuare l'ordine di lavoro pianificato per Ryan più avanti nel corso del giorno. 
 
-22. Fare clic con il pulsante destro del mouse sull'ordine di lavoro, scegliere **Sostituisci risorsa** dal menu visualizzato e selezionare il pulsante **Trova sostituzione****.**
+22. Fare clic con il pulsante destro del mouse sull'ordine di lavoro, scegliere **Sostituisci risorsa** dal menu visualizzato e selezionare il pulsante **Trova sostituzione**.
 
