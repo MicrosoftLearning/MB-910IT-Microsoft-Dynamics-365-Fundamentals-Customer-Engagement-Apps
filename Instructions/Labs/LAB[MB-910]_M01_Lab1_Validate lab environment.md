@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 1.1: Convalidare l'ambiente lab'
+    title: 'Lab 1.1: Convalidare l’ambiente lab'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
 ---
 
