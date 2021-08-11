@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 3.3: Lab di fine modulo Dynamics 365 Customer Service'
     module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'
@@ -73,13 +73,13 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 3. Per visualizzare facilmente gli articoli in fasi diverse, selezionare la freccia a discesa accanto a **Articoli attivi personali**. 
 
-4. Selezionare **Bozze di articoli**. Dovrebbero essere visualizzati due articoli in modalità bozza.
+4. Selezionare **Bozze di articoli**. 
 
-5. Usare il selettore vista per selezionare **Articoli approvati**. Dovrebbe essere presente almeno un articolo approvato. 
+5. Usare il selettore vista per selezionare **Articoli approvati**.  
 
 6. Usare il selettore vista per tornare ad **Articoli attivi personali**.
 
-7. Sulla **barra dei comandi** selezionare il pulsante **Nuovo**. 
+7. Sulla **barra dei comandi** selezionare il pulsante **Nuovo**. Dopo l'apertura del nuovo record, selezionare la freccia a discesa accanto al campo **Motivo stato** nell'intestazione del record nella parte superiore. Impostare **Lingua** su **Italiano - Italia**.
 
 8. Completare l'articolo come segue:
 
@@ -153,7 +153,7 @@ Nella maggior parte delle organizzazioni, dopo che l'autore dell'articolo ha cre
 
 13. Premere **INVIO**. 
 
-14. Immettere il testo Premere il pulsante **Conferma**. 
+14. Immettere il testo "Premere il pulsante Conferma". 
 
 15. Sulla **barra dei comandi** selezionare il pulsante **Salva e chiudi**.
 
@@ -172,15 +172,15 @@ Nella maggior parte delle organizzazioni, dopo che l'autore dell'articolo ha cre
 
 Ora che l'articolo è stato approvato, verrà pubblicato in modo che sia disponibile per chi lavora ai casi. 
 
-1. Fare clic sul pulsante **Fase successiva** per passare alla fase **Pubblica**. 
+1. Selezionare il pulsante **Fase successiva** per passare alla fase **Pubblica**. 
 
 2. Contrassegnare **Imposta associazioni prodotto** come **Completato**. 
 
 3. Impostare **Data scadenza** su **Un anno da oggi alle 12:00**. 
 
-4. Fare clic sul pulsante **Fine** per completare il processo. 
+4. Selezionare il pulsante **Fine** per completare il processo. 
 
-5. Sulla **barra dei comandi** dell'articolo fare clic sul pulsante **Pubblica**. 
+5. Sulla **barra dei comandi** dell'articolo selezionare il pulsante **Pubblica**. 
 
 6. Verificare che siano selezionate le opzioni seguenti:
 
@@ -194,7 +194,7 @@ Ora che l'articolo è stato approvato, verrà pubblicato in modo che sia disponi
 
 	- **Stato scadenza:** Scaduto
 
-7. Fare clic sul pulsante **Pubblica** per pubblicare l'articolo.
+7. Selezionare il pulsante **Pubblica** per pubblicare l'articolo.
 
 
 ## Esercizio 2. Gestire un caso di supporto tecnico per l'intero ciclo di vita
@@ -208,17 +208,8 @@ Ora che l'articolo è stato approvato, verrà pubblicato in modo che sia disponi
 
 3. Sulla **barra dei comandi** selezionare il pulsante **Mostra filtro elementi grafici**.
 
-4. Nel grafico **Casi vari (per origine)** selezionare **Telefono**. Si noti che il filtro Casi visualizza solo i casi Telefono.  
 
-5. Selezionare **Cancella tutto** per cancellare il filtro.
-
-6. Nel grafico **Casi per priorità** selezionare **Alta**. Si noti che l'elenco dei casi verrà ulteriormente filtrato per includere i casi con priorità alta.  
-
-7. Fare clic sul primo caso visualizzato nell'elenco per aprirlo. Dopo aver aperto il caso, fare clic sul pulsante **Salva e chiudi** sulla barra dei comandi per chiudere il caso e tornare al dashboard **Livello 1**. 
-
-8. Rimuovere i filtri attualmente applicati selezionando **Cancella tutto**. 
-
-9. Altri dashboard forniscono ulteriori dettagli sul carico del caso corrente. Per lavorare con altri dashboard, usare il selettore dashboard. Modificare il dashboard da **Dashboard di livello 1** a **Dashboard di livello 2**. 
+4. Altri dashboard forniscono ulteriori dettagli sul carico del caso corrente. Per lavorare con altri dashboard, usare il selettore dashboard. Modificare il dashboard da **Dashboard di livello 1** a **Dashboard di livello 2**. 
 
  
 
@@ -256,13 +247,13 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 	- **Durata:** 15 minuti.
 
-17. Fare clic sul pulsante **Salva e chiudi**. 
+17. Selezionare il pulsante **Salva e chiudi**. 
 
 18. In **Processo telefono - caso** selezionare la fase **Identifica**.
 
-19. Fare clic sul pulsante **Fase successiva** per passare alla fase **Ricerca**. 
+19. Selezionare il pulsante **Fase successiva** per passare alla fase **Ricerca**. 
 
-20. Fare clic sulla **X** nella finestra a comparsa della fase **Ricerca** per rimuovere la finestra in modo da poter continuare a lavorare. 
+20. Selezionare la **X** nella finestra a comparsa della fase **Ricerca** per rimuovere la finestra in modo da poter continuare a lavorare. 
 
 21. Usando la **sequenza temporale del record**, selezionare l'**icona del segno più** per creare un nuovo impegno. 
 
@@ -276,7 +267,7 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 	- **Durata:** 30 minuti.
 
-24. Fare clic sul pulsante **Salva e chiudi**. 
+24. Selezionare il pulsante **Salva e chiudi**. 
 
 25. Sul lato destro della schermata del caso individuare e selezionare l'icona a forma di libro **Conoscenza**. Sarà direttamente sotto l'icona della chiave inglese.
 
@@ -292,11 +283,11 @@ Ora che è stata acquisita familiarità con alcuni dei diversi dashboard e viste
 
 Ora che è stata identificata una soluzione al problema del cliente, si procederà a risolvere il caso, Il primo passaggio della chiusura di un caso consiste nel chiudere gli impegni aperti associati al caso. 
 
-1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza. Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+1. Nella **sequenza temporale** del record del caso passare il puntatore del mouse sull'attività **Cercare il problema di Piper** creata in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 2. Nella finestra **Chiudi attività** verificare che lo stato sia Completato e selezionare il pulsante **Chiudi**. Lo stato dell'attività dovrebbe essere **Chiusa**. 
 
-3. Passare il puntatore su **Richiamare Piper** creato in precedenza. Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
+3. Passare il puntatore su **Richiamare Piper** creato in precedenza**.** Selezionare l'**icona del segno di spunta** Contrassegna come completato per completare l'impegno. 
 
 4. Nella schermata **Chiudi telefonata** verificare che **Stato** sia **Completato** e che **Stato** sia **Effettuata**. Selezionare il pulsante **Chiudi**. Verificare che l'impegno sia visualizzato come chiuso nella sequenza temporale. 
 

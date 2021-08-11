@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 5.2: Gestire un’opportunità basata su progetto'
     module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'
@@ -27,7 +27,7 @@ Internamente, l'azienda si concentra su due aree principali:
 
 - **Clienti aziendali.** I venditori aziendali si concentrano sui clienti che hanno bisogno di soluzioni aziendali più specializzate e personalizzate. Le vendite aziendali in genere interessano più sedi con comunicazioni collegate e spesso richiedono più risorse per il completamento del progetto. Questi cicli di vendita solitamente sono più lunghi e includono molti più componenti. 
 
-È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti. 
+È importante che tutti i venditori della società ABC dispongano degli strumenti, delle risorse e delle indicazioni necessari, indipendentemente dalla loro area di interesse durante la vendita ai clienti.  
 
 **Installazione del sistema.**
 
@@ -76,17 +76,17 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 5. Nel flusso del processo aziendale Lead - opportunità selezionare la fase **Sviluppa**. Si noti che è necessario identificare le parti interessate e i concorrenti.
 
-6. Fare clic sulla **X** nella finestra della fase per chiuderla in modo da poter continuare a lavorare. 
+6. Selezionare la **X** nella finestra della fase per chiuderla in modo da poter continuare a lavorare. 
 
 7. Nella griglia secondaria **Parti interessate** si noti che **Jean** è già definita come parte interessata. 
 
 8. Nella griglia secondaria Team di vendita selezionare **Nuova connessione**. Se il pulsante **Nuova connessione** non è visualizzato, selezionare i **puntini di sospensione verticali** e scegliere **Nuova connessione** dal menu visualizzato. 
 
-9. Nel campo **Cerca** immettere il testo **Sistema** e selezionare il **record utente fornito dall'istruttore**. Al termine, fare clic sul pulsante **Aggiungi**. L'amministratore di sistema ora dovrebbe essere visualizzato nel team di vendita. In caso contrario, selezionare il pulsante **Aggiorna** sulla barra dei comandi. 
+9. Nel campo **Cerca** immettere il testo **Sistema** e selezionare **Amministratore di sistema**. Al termine, selezionare il pulsante **Aggiungi**. L'amministratore di sistema ora dovrebbe essere visualizzato nel team di vendita. In caso contrario, selezionare il pulsante **Aggiorna** sulla barra dei comandi. 
 
 10. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
-11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15.  
+11. Cercare e selezionare **Coho Security**. Se Coho Security non esiste, selezionare **Nuovo record** e quindi selezionare **Concorrenti**. In caso contrario, procedere al passaggio 15**.**  
 
 12. Nella schermata Creazione rapida: **Concorrente** impostare il campo **Nome** su **Coho Security - "Proprie iniziali"**.
 
@@ -94,13 +94,13 @@ Dopo aver creato un'opportunità di progetto partendo da un lead basato su un pr
 
 14. Selezionare il record Coho Security appena creato in uno degli esercizi precedenti e selezionare il pulsante **Aggiungi**. 
 
-15. Fare clic per selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
+15. Selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
 
-16. Fare clic sul pulsante **Fase successiva** per passare alla fase **Proponi**.
+16. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**.
 
 17. Nella fase **Proponi** contrassegnare **Identifica team di vendita** come **Completato**.
 
-18. Fare clic sulla **X** nella fase Proponi per chiudere la finestra della fase. 
+18. Selezionare la **X** nella fase Proponi per chiudere la finestra della fase. 
 
 19. Nel record dell'opportunità selezionare la scheda **Righe opportunità**.
 

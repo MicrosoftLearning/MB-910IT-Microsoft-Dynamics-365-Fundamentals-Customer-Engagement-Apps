@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 3.1: Creare e pubblicare un articolo della Knowlege Base in Dynamics 365 Customer Service'
     module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'
@@ -21,13 +21,15 @@ Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 
 3. Per visualizzare facilmente gli articoli in fasi diverse, selezionare la freccia a discesa accanto a **Articoli attivi personali**. 
 
-4. Selezionare **Bozze di articoli**. Dovrebbero essere visualizzati due articoli in modalità bozza.
+4. Selezionare la vista **Bozze di articoli**. 
 
-5. Selezionare **Articoli approvati**. Dovrebbe essere presente almeno un articolo approvato. 
+5. Selezionare **Articoli approvati**. 
 
 6. Tornare ad **Articoli attivi personali**
 
 7. Sulla **barra dei comandi** selezionare il pulsante **Nuovo**. 
+
+8. Dopo l'apertura del nuovo record, selezionare la freccia a discesa accanto al campo **Motivo stato** nell'intestazione del record nella parte superiore. Impostare **Lingua** su **Italiano - Italia**.
 
 8. Completare l'articolo come segue:
 
@@ -51,7 +53,7 @@ Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service
 
 	4. Selezionare il motivo del danno
 
-	5. Fare clic su Stampa
+	5. Selezionare Stampa
 
 Dopo che avremo ricevuto l'articolo reso/danneggiato, l'importo vi verrà nuovamente accreditato sul conto.
 
@@ -77,13 +79,13 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 18. Quando viene richiesto di confermare l'approvazione dell'articolo, selezionare **OK**. 
 
-19. Fare clic sul pulsante **Fase successiva** per passare alla fase **Pubblica**. 
+19. Selezionare il pulsante **Fase successiva** per passare alla fase **Pubblica**. 
 
 20. Sulla **barra dei comandi** nella parte superiore dell'articolo selezionare i **puntini di sospensione verticali** a sinistra della barra dei comandi. Nel menu visualizzato selezionare **Correla prodotto**. 
 
 21. Nella finestra **Correla prodotto** selezionare **Office 365 for Enterprise (Sample)** (Office 365 Enterprise - Esempio)
 
-22. Fare clic sul pulsante **Associa**. 
+22. Selezionare il pulsante **Associa**. 
 
 23. In **Nuovo processo** selezionare la fase **Pubblica**. 
 
@@ -91,9 +93,9 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 25. Impostare **Data scadenza** su **Un anno da oggi alle 12:00**. 
 
-26. Fare clic sul pulsante **Fine** per completare il processo. 
+26. Selezionare il pulsante **Fine** per completare il processo. 
 
-27. Sulla **barra dei comandi** dell'articolo fare clic sul pulsante **Pubblica**. 
+27. Sulla **barra dei comandi** dell'articolo selezionare il pulsante **Pubblica**. 
 
 28. Verificare che siano selezionate le opzioni seguenti:
 
@@ -107,6 +109,6 @@ Dopo che l'autore ha creato il record iniziale, verrà in genere eseguito un pro
 
 	- **Stato scadenza:** Scaduto
 
-	- **Pubblica traduzioni approvate:** No
+	- **Publish Approved translations:** (Pubblica traduzioni approvate) No
 
 

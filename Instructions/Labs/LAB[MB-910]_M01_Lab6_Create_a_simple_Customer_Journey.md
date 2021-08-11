@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 1.6: Creare un semplice percorso del cliente'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
@@ -19,13 +19,15 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 ## Istruzioni
 
+**Nota:** Le e-mail di marketing non possono essere create o modificate in Internet Explorer. Usare Microsoft Edge o Google Chrome per completare questo esercizio.
+
 **Nota:** Prima di creare un percorso del cliente, è necessario verificare di avere un indirizzo e-mail attivo da aggiungere al percorso del cliente. 
 
 1. Se necessario, aprire l'applicazione Dynamics 365 Marketing. 
 
 2. Usando la struttura di spostamento a sinistra, selezionare **E-mail di marketing** nel gruppo Esecuzione marketing.
 
-3. Individuare e aprire l'e-mail di marketing **Presentazione di Chairs**. 
+3. Selezionare la colonna **Data di creazione**, quindi selezionare **Ordina dal meno recente al più recente**. Individuare e aprire l'e-mail di marketing **Presentazione di Chairs**. 
 
 4. Sulla **barra dei comandi** in alto selezionare il pulsante **Go Live**. 
 
@@ -35,15 +37,15 @@ Durante questo esercizio si vedrà che i percorsi del cliente sono un componente
 
 7. Verrà visualizzata la pagina **Nuovo percorso del cliente**, con la finestra di dialogo **Seleziona modello di percorso del cliente** visualizzata. Selezionare **Ignora** per iniziare a creare il percorso da zero.
 
-8. Selezionare **Set audience** (Imposta destinatari) o, in alternativa, selezionare **+**. Selezionare il segmento Clienti di Fargo creato nell'esercizio precedente. Il primo riquadro viene popolato con il nome del segmento e nel riquadro **Destinatari** vengono visualizzate le proprietà del segmento.
+8. Selezionare **Set audience** (Imposta destinatari) o, in alternativa, selezionare **+**. Selezionare il segmento Clienti di Chicago creato nell'esercizio precedente. Il primo riquadro viene popolato con il nome del segmento e nel riquadro **Destinatari** vengono visualizzate le proprietà del segmento.
 
-9. Selezionare **+** nel canvas e quindi selezionare **Invia un messaggio e-mail** dal menu di scelta rapida.
+9. Selezionare **+** nella corsia Clienti di Chicago e quindi selezionare **Invia un messaggio e-mail** dal menu di scelta rapida.
 
 10. Selezionare l'e-mail **Presentazione di Chairs** attivata in precedenza. 
 
 11. Selezionare la scheda Generale nella parte superiore del record del percorso cliente. Immettere le informazioni seguenti nella scheda **Generale**:
 
-	- **Nome**: Percorso del cliente Fargo
+	- **Nome**: Percorso del cliente Chicago
 
 	- **Data e ora di inizio**: Immettere la data odierna
 

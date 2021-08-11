@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 4.3: Lab di fine modulo Dynamics 365 Field Service'
     module: 'Modulo 4: Concetti fondamentali su Dynamics 365 Field Service'
@@ -79,13 +79,15 @@ Di recente l'azienda Active Transport, Inc. ha contattato il supporto tecnico pe
 
 	- **Titolo caso:** Telecamera inattiva
 
-	- **Cliente:** Active Transport Inc.
+	- **Cliente:** Best For You Organics Company
 
 	- **Origine:** Telefono
 
+	Salvare il record.
+
 5. Selezionare la scheda **Field Service**.
 
-6. Impostare il campo **Tipo di incidente** su **Telecamera inattiva**.
+6. Impostare il campo **Tipo di incidente** su **Telecamera inattiva**. (Crea nuovo)
 
 7. Sulla **barra dei comandi** selezionare il pulsante **Salva e chiudi** per salvare e chiudere il record del caso. 
 
@@ -103,13 +105,17 @@ Più avanti si tornerà al record del caso creato. Ora si esaminerà come creare
 
 3. Completare i dettagli dell'ordine di lavoro come segue:
 
-	- **Account servizio:** Freni e ingranaggi 
+	- **Account servizio:** Margie's Travel
 
-	- **Listino prezzi:** Listino prezzi predefinito
+	- **Listino prezzi:** Office 365 Stati Uniti (esempio)
 
-	- **Tipo di incidente primario:** Ventola guasta
+	- **Tipo di ordine di lavoro:** Servizio
 
 	- **Tassabile:** No
+
+	Salvare il record e assegnare il tipo di incidente primario
+
+	- **Tipo di incidente primario:** Ventola guasta (Crea nuovo)
 
 4. Prendere nota del numero dell'ordine di lavoro per assicurarsi di usare l'ordine di lavoro corretto in seguito. 
 
@@ -139,11 +145,7 @@ In alternativa, per generare gli ordini di lavoro, è possibile eseguire l'escal
 
 3. Sulla **barra dei comandi** selezionare il pulsante **Converti in ordine di lavoro**. 
 
-4. Al termine della creazione dell'ordine di lavoro, fare clic sul pulsante **OK** nella schermata popup per visualizzare i dettagli dell'ordine di lavoro. 
-
-5. Selezionare la scheda **Servizi** e verificare che i servizi **Controlla integrità sistema** e **Controlla raggio di movimento** siano stati aggiunti all'ordine di lavoro. **NOTA:** se non sono visibili fin da subito, premere F5 per aggiornare la schermata. 
-
-6. Selezionare la scheda **Attività di assistenza tecnica** e verificare che siano state aggiunte 4 attività.
+4. Al termine della creazione dell'ordine di lavoro, selezionare il pulsante **OK** nella schermata popup per visualizzare i dettagli dell'ordine di lavoro. 
 
  
 
@@ -157,21 +159,15 @@ Entrambi gli ordini di lavoro appena creati sono pronti per la pianificazione.
 
 2. Nell'angolo in alto a destra della schermata impostare l'esperienza **New Schedule Board** (Nuova scheda di pianificazione) come **attivata**. 
 
-3. Usando il campo di ricerca **Cerca risorse**, immettere il nome del proprio account utente. Dovrebbe essere visualizzato il record della risorsa.
+3. Usando il campo di ricerca **Cerca risorse**, immettere Aidan Knaggs. 
 
 4. Nella parte inferiore dello schermo nel pannello Requisiti selezionare **Ordini di lavoro non pianificati**.  Se il pannello Requisiti non è visualizzato, selezionare la freccia nella parte inferiore dello schermo per espanderlo. 
 
-5. Individuare l'ordine di lavoro **Active Transport** creato dal record del caso. Ricordare il numero dell'ordine di lavoro. 
+5. Individuare l'ordine di lavoro **Munson's Pickles** creato dal record del caso. Ricordare il numero dell'ordine di lavoro. 
 
-6. Trascinare il record **Active Transport** e posizionarlo in un intervallo di tempo aperto per il record utente. 
+6. Trascinare il record **Munson's Pickles** e posizionarlo in un intervallo di tempo aperto per il record del contatto di Aidan. 
 
 7. Talvolta potrebbe essere necessario ripianificare un ordine di lavoro in base a conflitti tecnici o altri elementi. Questa operazione può essere facilmente eseguita dai dispatcher usando la scheda di pianificazione. 
-
-8. Fare clic nella casella Cerca risorse nella scheda di pianificazione (disponibile sopra la colonna del nome della risorsa), immettere **Brady** e individuare l'ordine di lavoro pianificato per **Brady Hannon** più avanti nel corso del giorno. 
-
-9. **Fare clic con il pulsante destro del mouse** sull'elemento pianificato. Nel menu visualizzato selezionare **Riassegna**. Usando la casella di ricerca selezionare il record della risorsa.
-
- 
 
  
 
@@ -185,10 +181,10 @@ Entrambi gli ordini di lavoro appena creati sono pronti per la pianificazione.
 
 4. Individuare l'ordine di lavoro **Active Transport** creato dal record del caso. Ricordare il numero dell'ordine di lavoro. 
 
-5. Trascinare il record **Active Transport** e posizionarlo in un intervallo di tempo aperto per il record utente. 
+5. Trascinare il record **Active Transport** e posizionarlo in un intervallo di tempo aperto per il record utente. Il testo sarà verde se l'intervallo di tempo corrisponde a quello preferito dal cliente.
 
 6. Talvolta potrebbe essere necessario ripianificare un ordine di lavoro in base a conflitti tecnici o altri elementi. Questa operazione può essere facilmente eseguita dai dispatcher usando la scheda di pianificazione. 
 
-7. Fare clic nella casella Cerca risorse nella scheda di pianificazione (disponibile sopra la colonna del nome della risorsa), immettere **Brady** e individuare l'ordine di lavoro pianificato per **Brady Hannon** più avanti nel corso del giorno. 
+7. Selezionare la casella Cerca risorse nella scheda di pianificazione (disponibile sopra la colonna del nome della risorsa), immettere **Brady** e individuare l'ordine di lavoro pianificato per **Brady Hannon** più avanti nel corso del giorno. 
 
-8. **Fare clic con il pulsante destro del mouse** sull'elemento pianificato. Nel menu visualizzato selezionare **Sostituisci risorsa**. Fare clic nella casella Seleziona/Cerca, selezionare il record della risorsa e selezionare **Riassegna**.
+8. **Fare clic con il pulsante destro del mouse** sull'elemento pianificato. Nel menu visualizzato selezionare **Sostituisci risorsa**. Selezionare la casella Seleziona/Cerca, selezionare il record della risorsa e selezionare **Riassegna**.

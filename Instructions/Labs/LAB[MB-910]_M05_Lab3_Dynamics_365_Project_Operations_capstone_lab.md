@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 5.3: Lab di fine modulo Dynamics 365 Project Operations'
     module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'
@@ -74,9 +74,9 @@ In questo esercizio si creerà un progetto e si definiranno i dettagli relativi 
 
 1. Con l'opportunità di progetto aperta, selezionare la scheda **Offerte**. 
 
-2. Nella griglia secondaria Offerte fare clic sul pulsante **Nuova offerta**.
+2. Nella griglia secondaria Offerte selezionare il pulsante **Nuova offerta**.
 
-3. Dopo l'apertura del record della nuova offerta, impostare il campo **Listino prezzi prodotto** dell'offerta su **Products and packaged Services** (Prodotti e servizi in pacchetto). 
+3. Dopo l'apertura del record della nuova offerta, impostare il campo **Listino prezzi prodotto** dell'offerta su **US Bill Rates** (Tariffe fatture Stati Uniti). 
 
 4. Selezionare la scheda **Righe di offerta**.
 
@@ -132,7 +132,6 @@ In questo esercizio si creerà un progetto e si definiranno i dettagli relativi 
 
 	- **Unità:** Ore
 
-	- **Importo vendite:** 50.000
 
 15. Selezionare il pulsante **Salva e chiudi** per chiudere l'elemento dei dettagli della riga. 
 
@@ -268,7 +267,7 @@ Durante la definizione della pianificazione di un progetto, è possibile specifi
 
 1. Se necessario, aprire il progetto **Implementazione della sicurezza globale completa - Proprie iniziali** e selezionare la scheda **Pianifica**. 
 
-2. Individuare l'attività **Creare il layout di sistema** aggiunta in precedenza e fare clic nel campo **Risorse**. 
+2. Individuare l'attività **Creare il layout di sistema** aggiunta in precedenza e selezionare il campo **Risorse**. 
 
 3. Nel menu visualizzato selezionare **Crea**. 
 

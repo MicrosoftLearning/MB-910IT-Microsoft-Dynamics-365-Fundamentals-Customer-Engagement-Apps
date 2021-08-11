@@ -1,4 +1,4 @@
----
+﻿---
 demo:
     title: 'Demo: Gestione delle risorse e Connected Field Service'
     module: 'Modulo 4: Concetti fondamentali su Dynamics 365 Customer Service'
@@ -10,7 +10,7 @@ demo:
 
 I dispositivi IoT fanno sempre più parte della vita quotidiana. 
 
-1. I clienti hanno spesso risorse fisiche che richiedono lavoro e manutenzione. Queste risorse richiedono spesso un'installazione e all'inizio hanno in genere contratti di manutenzione preventiva attivi. Dynamics 365 Field Service include la funzionalità di gestione delle risorse perfettamente integrata con la funzionalità Connected Field Service 
+1. I clienti hanno spesso risorse fisiche che richiedono lavoro e manutenzione.  Se la risorsa è un dispositivo connesso, potrebbe includere sensori IoT che possono ritrasmettere informazioni.  Le risorse spesso vengono installate inizialmente come parte di un ordine di lavoro.  Una volta installate, è possibile aprire contratti di manutenzione preventiva per tali risorse allo scopo di fornire una manutenzione pianificata per mantenere la risorsa in funzione.  Dynamics 365 Field Service include una funzionalità di gestione delle risorse che opera in combinazione con la funzionalità Connected Field Service.    
 
 	- Creare una risorsa del cliente
 

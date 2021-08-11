@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Lab 2.1: Creare e gestire un lead in Dynamics 365 Sales'
     module: 'Modulo 2.: Concetti fondamentali su Dynamics 365 Sales'
@@ -46,7 +46,7 @@ Durante questo esercizio verrà acquisito un lead di vendita per Suzanne Burke. 
 
 	- **Città:** Seattle
 
-	- **Provincia:** WA
+	- **Stato:** WA
 
 	- **CAP:** 98001 
 
@@ -77,5 +77,3 @@ Durante questo esercizio verrà acquisito un lead di vendita per Suzanne Burke. 
 13. A questo punto, è necessario qualificare il record del lead. Verrà creato un record opportunità correlato e si passerà alla fase successiva del processo di vendita Lead - opportunità. Sulla **barra dei comandi** selezionare il pulsante **Qualifica**. 
 
 14. Dopo che il sistema avrà qualificato il lead, verrà creato un nuovo record Opportunità e il processo aziendale passerà alla fase **Sviluppa**. Selezionare la fase **Qualifica** per visualizzare il record del lead originale. 
-
-15. Selezionare la fase **Sviluppa** per tornare all'opportunità.
