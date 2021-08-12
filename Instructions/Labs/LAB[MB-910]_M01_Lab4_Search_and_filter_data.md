@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.4: Cercare e filtrare i dati'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'

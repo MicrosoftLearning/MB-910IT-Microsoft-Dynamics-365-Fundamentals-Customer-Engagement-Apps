@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 4.2: Pianificare elementi in Dynamics 365 Field Service'
     module: 'Modulo 4: Concetti fondamentali su Dynamics 365 Field Service'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 3.3: Lab di fine modulo Dynamics 365 Customer Service'
     module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'

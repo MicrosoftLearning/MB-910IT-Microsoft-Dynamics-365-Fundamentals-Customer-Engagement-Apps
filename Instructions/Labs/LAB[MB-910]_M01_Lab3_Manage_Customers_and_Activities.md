@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.3: Gestire clienti e impegni'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'

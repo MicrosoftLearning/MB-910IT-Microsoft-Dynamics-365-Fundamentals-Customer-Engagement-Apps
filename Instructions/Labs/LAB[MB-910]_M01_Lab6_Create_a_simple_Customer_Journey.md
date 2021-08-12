@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.6: Creare un semplice percorso del cliente'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'

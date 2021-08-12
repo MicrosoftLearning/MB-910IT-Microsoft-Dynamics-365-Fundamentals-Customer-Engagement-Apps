@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 3.2: Creare e gestire casi in Dynamics 365 Customer Service'
     module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'

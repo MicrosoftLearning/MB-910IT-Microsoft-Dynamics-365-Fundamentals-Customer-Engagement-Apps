@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 2.3: Lab di fine modulo Dynamics 365 Sales'
     module: 'Modulo 2: Concetti fondamentali su Dynamics 365 Sales'

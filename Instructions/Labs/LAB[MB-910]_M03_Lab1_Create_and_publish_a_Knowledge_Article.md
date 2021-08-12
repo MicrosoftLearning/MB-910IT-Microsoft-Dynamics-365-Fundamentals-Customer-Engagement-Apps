@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 3.1: Creare e pubblicare un articolo della Knowlege Base in Dynamics 365 Customer Service'
     module: 'Modulo 3: Concetti fondamentali su Dynamics 365 Customer Service'

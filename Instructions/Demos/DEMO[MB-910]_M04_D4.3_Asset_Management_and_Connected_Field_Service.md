@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'Demo: Gestione delle risorse e Connected Field Service'
     module: 'Modulo 4: Concetti fondamentali su Dynamics 365 Customer Service'

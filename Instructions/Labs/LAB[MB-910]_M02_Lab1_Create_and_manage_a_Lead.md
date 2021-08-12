@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 2.1: Creare e gestire un lead in Dynamics 365 Sales'
     module: 'Modulo 2.: Concetti fondamentali su Dynamics 365 Sales'

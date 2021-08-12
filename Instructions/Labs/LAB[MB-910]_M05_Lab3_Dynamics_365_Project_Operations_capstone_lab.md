@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 5.3: Lab di fine modulo Dynamics 365 Project Operations'
     module: 'Modulo 5: Concetti fondamentali su Dynamics 365 Project Operations'

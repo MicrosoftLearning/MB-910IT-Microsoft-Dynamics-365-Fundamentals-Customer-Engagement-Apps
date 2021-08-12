@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 1.7: Lab di fine modulo Dynamics 365 Marketing'
     module: 'Modulo 1: Concetti fondamentali su Dynamics 365 Marketing'
