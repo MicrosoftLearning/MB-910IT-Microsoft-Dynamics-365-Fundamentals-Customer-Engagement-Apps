@@ -98,17 +98,10 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 	- **Email:** piper@sample.com
 
-	- **Via 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **Città:** Seattle
-
-	- **Provincia:** WA
-
-	- **CAP:** 98001 
 
 9. Selezionare il pulsante **Salva** sulla barra dei comandi per salvare il nuovo lead e lasciarlo aperto.
 
-10. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Fare clic sulla **fase di qualificazione** per selezionarla. Completare la fase come segue:
+10. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Selezionare la **fase di qualificazione**. Completare la fase come segue:
 
 	- **Intervallo di tempo acquisti:** Trimestre corrente
 
@@ -118,9 +111,9 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 	- **Identifica decisore:** Completato
 
-11. Fare clic sulla **X** nella finestra della fase per chiuderla. 
+11. Selezionare la **X** nella finestra della fase per chiuderla. 
 
-12. Passare alla **sequenza temporale** del record al centro dello schermo e fare clic sull'**icona del segno più** per aggiungere un nuovo impegno. 
+12. Passare alla **sequenza temporale** del record al centro dello schermo e selezionare l'**icona del segno più** per aggiungere un nuovo impegno. 
 
 13. Nel menu visualizzato selezionare **Telefonata**.
 
@@ -134,7 +127,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 	- **Descrizione.** In seguito ad alcuni eventi verificatisi nel suo quartiere, vuole acquistare un sistema di sicurezza. 
 
-15. Fare clic sul pulsante **Salva e chiudi**.
+15. Selezionare il pulsante **Salva e chiudi**.
 
 16. Si noti che l'impegno **Ricerca di apparecchiature di sicurezza per la casa** ora è visualizzato nella **sequenza temporale** del record. Posizionare il puntatore del mouse sull'impegno e selezionare l'**icona del segno di spunta** Chiudi impegno per contrassegnare la telefonata come completata. 
 
@@ -154,9 +147,9 @@ Dopo una visita a casa di Piper, si stabilisce che è abbastanza interessata da 
 
 2. Dopo che il sistema avrà qualificato il lead, verrà creato un nuovo record Opportunità e il processo aziendale passerà alla fase **Sviluppa**. Selezionare la fase **Qualifica** per visualizzare il record del lead originale. 
 
-3. Selezionare la fase **Sviluppa** per tornare all'opportunità.
+3. Selezionare la fase **Qualifica** per tornare al lead.
 
-4. Fare clic sul pulsante **Salva e chiudi** per chiudere il record opportunità creato. 
+4. Selezionare il pulsante **Salva e chiudi** per chiudere il record del lead creato. 
 
  
 
@@ -170,15 +163,15 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 1. Usando la barra di spostamento sul lato sinistro della schermata, selezionare **Opportunità**. 
 
-2. Selezionare la freccia a discesa accanto alla vista **Opportunità aperte personali** e dal menu visualizzato selezionare **Opportunità aperte**.
+2. Selezionare la freccia a discesa accanto alla vista **Opportunità aperte personali** e dal menu visualizzato selezionare **Tutte le opportunità**.
 
-3. Sulla barra dei comandi selezionare Mostra grafico. Si noti che il grafico Clienti principali viene visualizzato in base alla tabella Opportunità. 
+3. Sulla barra dei comandi selezionare Mostra grafico. Si noti che il grafico **Clienti principali** viene visualizzato in base alla tabella Opportunità. 
 
-4. Selezionare la freccia verso il basso accanto a Clienti principali e dal menu visualizzato selezionare **Pipeline di vendita**.
+4. Selezionare la freccia verso il basso accanto a **Clienti principali** e dal menu visualizzato selezionare **Pipeline di vendita**.
 
 5. Selezionare la parte Qualifica del grafico a imbuto. Si noti che l'elenco di opportunità viene modificato per visualizzare le opportunità in fase di qualificazione. 
 
-6. Fare clic in un punto qualsiasi dello spazio vuoto del grafico per visualizzare nuovamente tutte le opportunità aperte. 
+6. Selezionare un punto qualsiasi dello spazio vuoto del grafico per visualizzare nuovamente tutte le opportunità aperte. 
 
 7. Selezionare la freccia verso il basso accanto alla vista **Opportunità aperte** e dal menu visualizzato selezionare **Opportunità aperte personali**. **Ricerca di apparecchiature di sicurezza - Proprie iniziali** sarà probabilmente il solo elemento visualizzato e il grafico dovrebbe corrispondere. 
 
@@ -194,7 +187,7 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 	- **Ricavi previsti:** 12.500,00
 
-12. Passare alla **sequenza temporale del record** al centro dello schermo e fare clic sull'**icona del segno più** per aggiungere un nuovo impegno. 
+12. Passare alla **sequenza temporale del record** al centro dello schermo e selezionare l'**icona del segno più** per aggiungere un nuovo impegno. 
 
 13. Nel menu visualizzato selezionare **Appuntamento**.
 
@@ -212,13 +205,13 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 16. Nel flusso del processo aziendale Lead - opportunità selezionare la fase **Sviluppa**. Si noti che è necessario identificare le parti interessate e i concorrenti.
 
-17. Fare clic sulla **X** nella finestra della fase per chiuderla in modo da poter continuare a lavorare. 
+17. Selezionare la **X** nella finestra della fase per chiuderla in modo da poter continuare a lavorare. 
 
 18. Nella griglia secondaria **Parti interessate** si noti che **Piper** è già definita come parte interessata. 
 
 19. Nella griglia secondaria Team di vendita selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Nuova connessione**. 
 
-20. Nel campo **Cerca** immettere il testo **Amministratore** e selezionare il record **Amministratore di sistema**. Al termine, fare clic sul pulsante **Aggiungi**. L'amministratore di sistema ora dovrebbe essere visualizzato nel team di vendita. In caso contrario, selezionare il pulsante **Aggiorna** sulla barra dei comandi. 
+20. Nel campo **Cerca** immettere il testo **Amministratore** e selezionare il record **Amministratore di sistema**. Al termine, selezionare il pulsante **Aggiungi**. L'amministratore di sistema ora dovrebbe essere visualizzato nel team di vendita. In caso contrario, selezionare il pulsante **Aggiorna** sulla barra dei comandi. 
 
 21. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
@@ -230,17 +223,17 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 25. Assicurarsi che il record Coho Security appena creato sia selezionato e selezionare il pulsante **Aggiungi**. 
 
-26. Fare clic per selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
+26. Selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
 
-27. Fare clic sul pulsante **Fase successiva** per passare alla fase **Proponi**.
+27. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**.
 
 28. Nella fase **Proponi** contrassegnare **Identifica team di vendita** come **Completato**.
 
-29. Fare clic sulla **X** nella fase Proponi per chiudere la finestra della fase. 
+29. Selezionare la **X** nella fase Proponi per chiudere la finestra della fase. 
 
 30. Nel record dell'opportunità selezionare la scheda **Offerte**. 
 
-31. Nella griglia secondaria Offerte fare clic sul pulsante **Nuova offerta**.
+31. Nella griglia secondaria Offerte selezionare il pulsante **Nuova offerta**.
 
  
 
@@ -252,21 +245,20 @@ Dopo aver qualificato il lead come opportunità, è ora di gestire l'opportunit�
 
 Dopo aver creato un'offerta correlata, la si preparerà per presentarla a un cliente. In circostanze normali, è probabile che si aggiungano i prodotti al record dell'offerta prima di inviarla a un cliente. Poiché si sta lavorando in ambienti condivisi, si salterà l'aggiunta delle righe dell'offerta e si eseguirà l'invio dell'offerta. 
 
-1. Sulla **barra dei comandi** selezionare il pulsante **Attiva offerta** per attivare l'offerta. 
 
-2. È ora necessario selezionare un listino prezzi da allegare all'opportunità.  In **Listino prezzi** nel riquadro a sinistra selezionare l'icona Cerca e quindi selezionare **Listino prezzi predefinito** tra le opzioni.
+1. È ora necessario selezionare un listino prezzi da allegare all'opportunità.  In **Listino prezzi** nel riquadro a sinistra selezionare l'icona Cerca e quindi selezionare **Office 365 Stati Uniti (esempio)** tra le opzioni. Sulla **barra dei comandi** selezionare il pulsante **Attiva offerta** per attivare l'offerta. 
 
-3. Dopo aver creato l'offerta, si aggiornerà il record dell'opportunità in modo che rispecchi i nuovi dati. Nel record Offerta selezionare l'opportunità **Ricerca di apparecchiature di sicurezza** - **"Proprie iniziali"** nel campo **Opportunità** nella sezione **Informazioni sulle vendite**. Il record dell'opportunità verrà visualizzato. 
+2. Dopo aver creato l'offerta, si aggiornerà il record dell'opportunità in modo che rispecchi i nuovi dati. Nel record Offerta selezionare l'opportunità **Ricerca di apparecchiature di sicurezza** - **"Proprie iniziali"** nel campo **Opportunità** nella sezione **Informazioni sulle vendite**. Il record dell'opportunità verrà visualizzato. 
 
 3. Nel record dell'opportunità selezionare la fase **Proponi**. 
 
-4. Contrassegnare **Sviluppa proposta**, **Completa verifica interna** e **Proposta corrente** come **completate** e fare clic sul pulsante **Fase successiva** per passare alla fase **Chiudi**. 
+4. Contrassegnare **Sviluppa proposta**, **Completa verifica interna** e **Proposta corrente** come **completate** e selezionare il pulsante **Fase successiva** per passare alla fase **Chiudi**. 
 
 5. Nella fase **Chiudi** contrassegnare i passaggi **Completa proposta finale**, **Presenta proposta finale**, **Invia nota di ringraziamento** e **Archivia debriefing** come **Completato**. 
 
 6. Impostare **Conferma data decisione** su **Data odierna**. 
 
-7. Fare clic sul pulsante **Fine**. 
+7. Selezionare il pulsante **Fine**. 
 
 8. Selezionare la **X** nella finestra della fase Chiudi per chiuderla. 
 
@@ -312,4 +304,4 @@ Dopo aver creato un ordine cliente, l'ordine verrà chiuso e verrà generata una
 
 4. Sulla **barra dei comandi** dell'ordine selezionare il pulsante **Crea fattura**. 
 
-5. Una volta aperto il record della fattura, selezionare **Fattura pagata**.
+5. Sulla **barra dei comandi** selezionare il pulsante **Fattura pagata**. Selezionare OK.

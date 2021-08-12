@@ -21,17 +21,19 @@ Modulo 4: Concetti fondamentali su Dynamics 365 Field Service
 
 3. Completare i dettagli dell'ordine di lavoro come segue:
 
-	- **Account servizio:** Adventure Works
+	- **Account servizio:** Adventure Works Cycles
 
-	- **Tipo di ordine di lavoro**: Servizio
+	- **Tipo di ordine di lavoro**: Servizio (Crea nuovo)
 
-	- **Listino prezzi:** Listino prezzi predefinito
+	- **Listino prezzi:** Servizio CRM Stati Uniti (esempio)
 
 	- **Tassabile:** No
 
+4. Salvare l'ordine di lavoro.
+
 4. Selezionare la scheda **Impostazioni**.
 
-5. Impostare il campo **Area di servizio** su **WA**.
+5. Impostare il campo **Area di servizio** su **WA**. (Crea nuovo)
 
 6. In **Preferenze** configurare le preferenze per il tempo come segue:
 

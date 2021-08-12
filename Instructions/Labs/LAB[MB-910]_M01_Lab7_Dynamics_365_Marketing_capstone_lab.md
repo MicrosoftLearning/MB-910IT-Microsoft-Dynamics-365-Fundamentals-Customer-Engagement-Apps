@@ -9,6 +9,8 @@ Modulo 1: Concetti fondamentali su Dynamics 365 Marketing
 
 ## Lab pratico 1.7. Lab di fine modulo Dynamics 365 Marketing
 
+**Nota:** Le e-mail di marketing non possono essere create o modificate in Internet Explorer. Usare Microsoft Edge o Google Chrome per completare questo esercizio.
+
 ## Scenario del lab
 
 La società ABC è specializzata nella produzione, vendita, installazione e manutenzione di attrezzature di sicurezza. I prodotti dell'azienda includono telecamere di sicurezza sia interne sia esterne, sensori di umidità e antincendio, servizi di monitoraggio e altro ancora. 
@@ -69,53 +71,53 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 3. Per creare una nuova e-mail di marketing, sulla **barra dei comandi** selezionare **Nuovo**.
 
-4. Nell'elenco **Modelli E-mail marketing** selezionare **1 column newsletter** (Newsletter a 1 colonna) e fare clic sul pulsante **Seleziona**.
+4. Nell'elenco **Modelli E-mail marketing** selezionare **1 column newsletter** (Newsletter a 1 colonna) e selezionare il pulsante **Seleziona**.
 
 5. Dopo l'apertura del nuovo record, selezionare la freccia a discesa accanto al campo **Motivo stato** nell'intestazione del record nella parte superiore. 
 
 6. Nel campo **Nome** immettere **Sicurezza dell'abitazione - Proprie iniziali**. 
 
-7. Nel campo **Oggetto** immettere il testo **Tenete al sicuro la vostra famiglia**!
+7. Nel campo **Oggetto** immettere il testo **Tenete al sicuro la vostra famiglia**! Potrebbe essere necessario scorrere fino alla parte superiore della pagina di progettazione per visualizzare il campo Oggetto.
 
 8. Nella finestra del messaggio individuare e selezionare la piccola immagine **sopra** il testo **Short headline goes here** (Inserire qui una breve intestazione). 
 
-9. Posizionare il puntatore del mouse e selezionare il pulsante **Raccolta immagini**. 
+9. Nel riquadro delle proprietà posizionare il puntatore del mouse e selezionare il pulsante **Raccolta immagini**. 
 
-10. Selezionare l'**immagine Security2** e fare clic sul pulsante **Seleziona** per inserirla nell'e-mail. 
+10. Selezionare l'immagine **contosologo.png** e selezionare il pulsante **Seleziona** per inserirla nell'e-mail. 
 
 11. Usare i quadratini di ridimensionamento sull'immagine per ridimensionarla nel modo desiderato. 
 
-12. Fare clic per selezionare la casella **A short headline goes here** (Inserire qui una breve intestazione). Modificare il testo in **Sentitevi sempre al sicuro**.
+12. Selezionare la casella **A short headline goes here** (Inserire qui una breve intestazione). Modificare il testo in **Sentitevi sempre al sicuro**.
 
-13. Fare clic nella sezione sotto il testo appena modificato. 
+13. Selezionare la sezione sotto il testo appena modificato. 
 
 14. Sostituire il testo con il testo seguente: Siete sempre a conoscenza di ciò che accade dentro e intorno alla vostra casa? Voi e la vostra famiglia dovete potervi sentire sempre protetti e al sicuro sia quando siete a casa sia quando siete lontani. Il giusto sistema di sicurezza non solo vi garantisce quella sensazione di sicurezza, ma vi consente anche di risparmiare sull'assicurazione. 
 
 15. Selezionare l'**immagine** proprio sotto il testo aggiunto. 
 
-16. Posizionare il puntatore del mouse e selezionare il pulsante **Raccolta immagini**. 
+16. Selezionare il pulsante **Raccolta immagini**. 
 
-17. Selezionare l'immagine **Security1** e quindi fare clic sul pulsante **Seleziona** per inserirla nell'e-mail. 
+17. Selezionare l'immagine **safebox.png** e quindi selezionare il pulsante **Seleziona** per inserirla nell'e-mail. 
 
-18. Ridimensionare l'immagine in modo che occupi una parte consistente della finestra del messaggio. 
+18. Ridimensionare l'immagine. 
 
 19. Selezionare la **casella dell'intestazione o del titolo** proprio sotto l'immagine e sostituire il testo con **Abbiamo tutto ciò che vi serve**. 
 
-20. Fare clic nella casella di testo sotto l'intestazione appena modificata. 
+20. Selezionare la casella di testo sotto l'intestazione appena modificata. 
 
 21. Sostituire il testo con il testo seguente: **I nostri pluripremiati sistemi sono in grado di proteggervi.**
 
-22. Fare clic per selezionare l'intera sezione sotto la sezione appena modificata. Fare clic sull'icona del **cestino** per rimuovere la sezione. 
+22. Selezionare l'intera sezione sotto la sezione appena modificata. Fare clic sull'icona del **cestino** per rimuovere la sezione. 
 
-23. Ripetere il processo per le sezioni rimanenti del messaggio. 
+23. Ripetere il processo per le sezioni rimanenti o gli altri elementi del messaggio.
 
 24. Prima di inviare l'e-mail, controllare che non contenga errori. Sulla **barra dei comandi** selezionare il pulsante **Individua errori**. 
 
 25. Dopo aver verificato che non siano presenti errori, sulla **barra dei comandi** selezionare il pulsante **Go Live**. 
 
-26. Fare clic sulla freccia verso il basso accanto al pulsante **Salva** sulla barra dei comandi e selezionare **Salva e chiudi**. 
+26. Selezionare la freccia verso il basso accanto al pulsante **Salva** sulla barra dei comandi e selezionare **Salva e chiudi**. 
 
-È stata creata un'e-mail di marketing che è possibile sfruttare in altre aree dell'applicazione di marketing. 
+27. Se è stato usato lo stesso indirizzo e-mail per entrambi i contatti, verrà visualizzato un avviso **Record duplicati trovati**. Scegliere **Ignora e salva**.
 
 ## Esercizio 2. Creare un segmento in Dynamics 365 Marketing
 
@@ -185,13 +187,13 @@ La creazione di un segmento di clienti consentirà di definire i clienti a cui r
 
 8. Si noti che la tabella dei contatti è selezionata per impostazione predefinita. Non modificarla. 
 
-9. Fare clic per selezionare il testo fantasma **Selezionare un attributo**. 
+9. Selezionare il testo **Selezionare un attributo**. 
 
 10. Immettere la parola Città per filtrare l'elenco. Scegliere **Indirizzo 1: Città** dall'elenco.
 
 11. Mantenere l'elenco a discesa successivo impostato su **Uguale**. 
 
-12. Selezionare il terzo elenco a discesa, che contiene il testo fantasma **Immettere il testo**, e digitare **Seattle**.
+12. Selezionare il terzo elenco a discesa, che contiene il testo **Immettere il testo**, e selezionare **Seattle**.
 
 13. Selezionare **Salva** sulla barra dei comandi per salvare il segmento.
 
@@ -231,7 +233,7 @@ Dopo aver creato il segmento, si verificherà che il segmento dinamico venga pop
 
 6. Aprire il segmento **Clienti di Seattle - Proprie iniziali** creato in precedenza. 
 
-7. Selezionare la scheda **Membri**. Si noti che **Rick Jones - Proprie iniziali** ora dovrebbe essere presente. 
+7. Selezionare la scheda **Membri**. Si noti che **Rick Jones - Proprie iniziali** ora dovrebbe essere presente. Può essere necessario aggiornare la vista.
 
 **IMPORTANTE:** poiché si sta lavorando in ambiente condiviso e tutti stanno lavorando nello stesso sistema, è probabile che siano visualizzati anche altri contatti nel segmento di marketing dinamico. Questo va bene per gli scopi del corso. 
 
@@ -247,7 +249,7 @@ Dopo aver creato il contenuto marketing che si vuole recapitare e definito un se
 
 4. Nell'area **Destinatari** verificare che **Tipo di origine** sia impostato su **Segmento**. 
 
-5. Fare clic nella ricerca del segmento sotto l'elenco a discesa **Inclusione**. 
+5. Selezionare la ricerca del segmento sotto l'elenco a discesa **Inclusione**. 
 
 6. Immettere il testo **Seattle** e selezionare il segmento **Clienti di Seattle** creato in precedenza. 
 
@@ -257,11 +259,11 @@ Dopo aver creato il contenuto marketing che si vuole recapitare e definito un se
 
 9. Spostare il cursore dopo l'azione Invia un messaggio e-mail. Selezionare il segno **+** e dal menu visualizzato selezionare **If/Then**.
 
-10. Nell'area **If/Then** sulla sinistra della schermata, sotto le condizioni fare clic nel campo **Selezionare un'origine**. 
+10. Nell'area **If/Then** sulla sinistra della schermata, sotto le condizioni selezionare il campo **Selezionare un'origine**. 
 
 11. Selezionare il segmento **Sicurezza dell'abitazione - Proprie iniziali**. 
 
-12. Fare clic nel campo **Seleziona una condizione**. Scegliere **a link has been clicked** (è stato fatto clic su un collegamento).
+12. Selezionare il campo **Seleziona una condizione**. Scegliere **a link has been clicked** (è stato fatto clic su un collegamento).
 
 13. Nel percorso **Sì** selezionare il segno **+**. Nel menu visualizzato selezionare **Crea lead**.
 

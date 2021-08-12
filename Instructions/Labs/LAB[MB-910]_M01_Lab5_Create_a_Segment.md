@@ -19,7 +19,8 @@ Durante questo esercizio, si noterà che è molto facile creare segmenti di clie
 
 ## Istruzioni
 
-1. Usando la struttura di spostamento a sinistra, selezionare Segmenti in Marketing. 
+
+1. Aprire l'applicazione Dynamics Marketing. Dovrebbe essere selezionata l'area **Marketing**. Selezionare **Segmenti** in **Clienti**.
 
 2. Nella barra dei comandi selezionare **Nuovo**.
 
@@ -29,15 +30,15 @@ Durante questo esercizio, si noterà che è molto facile creare segmenti di clie
 
 5. Selezionare **Add query block** (Aggiungi blocco di query) per creare una query da eseguire sulla tabella dei contatti. 
 
-6. Selezionare il testo fantasma **Selezionare un attributo**. 
+6. Selezionare il controllo **Selezionare un attributo**.
 
-7. Digitare quindi "città" per filtrare l'elenco e scegliere **Indirizzo 1: Città** dall'elenco.
+7. Digitare "città" per filtrare l'elenco e selezionare **Indirizzo 1: Città**.
 
-8. Mantenere l'elenco a discesa successivo impostato su **Uguale**. 
+8. Mantenere l'elenco a discesa successivo impostato su **È**. 
 
-9. Selezionare il terzo elenco a discesa, che contiene il testo fantasma **Immettere il testo**, e digitare **Redmond**.
+9. Fare clic su **Digita per cercare** e digitare **Chicago**.
 
-10. Fare clic per selezionare il campo **Nome** nella parte superiore della query e immettere **Contatti di Fargo - Proprie iniziali**.
+10. Selezionare il campo **Nome** nella parte superiore della query e immettere **Contatti di Chicago - Proprie iniziali**.
 
 11. Selezionare **Salva** sulla barra dei comandi per salvare il segmento.
 
@@ -45,4 +46,4 @@ Durante questo esercizio, si noterà che è molto facile creare segmenti di clie
 
 13. Attendere circa un minuto e quindi selezionare **Aggiorna** sulla barra dei comandi per aggiornare la pagina. 
 
-14. Ora dovrebbe essere possibile vedere che è stata aggiunta una scheda **Membri**. 
+14. Ora dovrebbe essere possibile vedere che è stata aggiunta una scheda **Membri**. Viene elencato Jackson Anderson.

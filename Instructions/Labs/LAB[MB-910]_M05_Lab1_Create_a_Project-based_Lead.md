@@ -66,11 +66,15 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 2. Quando richiesto, accedere con le credenziali utente fornite dall'istruttore. 
 
-3. Nell'elenco di applicazioni visualizzato selezionare **Project Operations**. **Nota:** potrebbe anche trattarsi di Project Service.
+3. Nell'elenco di applicazioni visualizzato selezionare **Project Service**. 
 
-4. Usando la barra di spostamento sul lato sinistro della schermata, selezionare l'area **Progetti**. 
+4. Se Project Service non è presente, visitare trials.dynamics.com e installare la versione di valutazione di Project Service. 
 
-5. Nel menu visualizzato selezionare **Vendite**.
+	- E-mail ufficio: e-mail del tenant. 
+
+	- Numero di telefono: telefono cellulare
+
+5. Usando la barra di spostamento sul lato sinistro della schermata, selezionare l'area **Vendite**. 
 
 6. Usando la struttura di spostamento selezionare **Lead**. 
 
@@ -106,7 +110,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 11. Selezionare il pulsante **Salva** sulla barra dei comandi per salvare il nuovo lead e lasciarlo aperto.
 
-12. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Fare clic sulla **fase di qualificazione** per selezionarla. Completare la fase come segue:
+12. Si noti il flusso del processo aziendale **Lead - opportunità** nella parte superiore del record. Selezionare la **fase di qualificazione**. Completare la fase come segue:
 
 	- **Intervallo di tempo acquisti:** Trimestre corrente
 
@@ -116,9 +120,9 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 	- **Identifica decisore:** Completato
 
-13. Fare clic sulla **X** nella finestra della fase per chiuderla. 
+13. Selezionare la **X** nella finestra della fase per chiuderla. 
 
-14. Passare alla **sequenza temporale del record** al centro dello schermo e fare clic sull'**icona del segno più** per aggiungere un nuovo impegno. 
+14. Passare alla **sequenza temporale del record** al centro dello schermo e selezionare l'**icona del segno più** per aggiungere un nuovo impegno. 
 
 15. Nel menu visualizzato selezionare **Telefonata**.
 
@@ -132,7 +136,7 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 	- **Descrizione.** Conversazione iniziale con Jean per determinare la qualificazione iniziale. 
 
-17. Fare clic sul pulsante **Salva e chiudi**.
+17. Selezionare il pulsante **Salva e chiudi**.
 
 18. Si noti che l'impegno **Chiamata di qualificazione iniziale** ora è visualizzato nella **sequenza temporale del record**. Posizionare il puntatore del mouse sull'impegno e selezionare l'**icona del segno di spunta** Chiudi impegno per contrassegnare la telefonata come completata. 
 
@@ -148,5 +152,5 @@ Al termine del lab, saranno state completate le attività seguenti:
 
 3. Selezionare la fase **Sviluppa** per tornare all'opportunità.
 
-4. Fare clic sul pulsante **Salva e chiudi** per chiudere il record opportunità creato. 
+4. Selezionare il pulsante **Salva e chiudi** per chiudere il record dell'opportunità creato. 
 

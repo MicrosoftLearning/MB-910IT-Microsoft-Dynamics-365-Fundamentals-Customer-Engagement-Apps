@@ -34,10 +34,10 @@ Esercizio 1. Accedere all'applicazione Dynamics 365
 
 ### Attività 2. Accedere all'applicazione Dynamics 365
 
-1.  Espandere il pulsante della griglia nell'angolo in alto a sinistra della schermata, immediatamente a sinistra di **Interfaccia di amministrazione di Power Platform**. Selezionare **Dynamics 365**.
+1.  Espandere il pulsante dell'icona di avvio delle app nell'angolo in alto a sinistra della schermata, immediatamente a sinistra di **Interfaccia di amministrazione di Power Platform. Selezionare l'app Dynamics 365 Marketing** per avviarla.
 
-2.  Selezionare il pulsante **Modifica**. Si aprirà l'ambiente Contoso nell'**interfaccia di amministrazione di Power Platform**.
+2.  Esplorare il pannello di navigazione sulla sinistra. Il pulsante nella parte inferiore del pannello consente di cambiare area. Attualmente è visualizzata l'area **Marketing**. 
 
-4. Nell'elenco di app Dynamics 365 disponibili selezionare **Marketing**.
+3.  Selezionare **Marketing** nella parte inferiore del pannello di navigazione, quindi selezionare l'area **Eventi**. Esplorare l'area **Eventi** del pannello di navigazione.  
 
-5. Dedicare alcuni minuti ad analizzare l'applicazione.
+4. Dedicare qualche minuto all'esplorazione dell'applicazione, quindi tornare all'area **Marketing**.

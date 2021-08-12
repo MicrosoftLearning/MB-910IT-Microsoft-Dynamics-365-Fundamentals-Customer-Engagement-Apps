@@ -22,7 +22,7 @@ Durante questo esercizio, si noterà che è molto facile accedere alle diverse a
 
 In questo esercizio verrà illustrato come accedere alle diverse applicazioni Customer Engagement di Dynamics 365 usando la schermata Home di Dynamics 365. 
 
-1. In un Web browser passare a [**https://home.dynamics.com**](https://home.dynamics.com/) Verranno visualizzate tutte le applicazioni a cui si ha accesso. 
+1. In un Web browser passare a **[https://home.dynamics.com](https://home.dynamics.com/)** Verranno visualizzate tutte le applicazioni a cui si ha accesso. 
 
 2. Per ridurre il numero di applicazioni visualizzate, selezionare l'**Icona del filtro** accanto al pulsante Ottieni altre app. 
 
@@ -30,17 +30,17 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 4. Selezionare la **X** nell'angolo in alto a destra della **casella del filtro** per chiuderla. 
 
-5. Per individuare un'app specifica, è possibile cercarla facendo clic nel campo **Cerca app personali** sulla sinistra della schermata. 
+5. Per individuare un'app specifica, è possibile cercarla selezionando il campo **Cerca app personali** sulla sinistra della schermata. 
 
 6. Digitare il testo **Hub delle vendite** e selezionare l'app **Hub delle vendite** per aprirla. 
 
 7. In un'app sono presenti aree diverse che è possibile usare a seconda di ciò che si vuole fare. L'applicazione Hub delle vendite, ad esempio, contiene impostazioni amministrative diverse che è possibile utilizzare. 
 
-8. Nell'angolo in basso a sinistra della schermata selezionare il testo **Vendite** e nell'elenco visualizzato selezionare **Impostazioni app**. In questa parte dell'applicazione è possibile apportare modifiche amministrative. 
+8. Nell'angolo in basso a sinistra del pannello di navigazione selezionare **Vendite** e passare all'area **Impostazioni app**. Esplorare le impostazioni dell'applicazione.
 
 9. Selezionare nuovamente il selettore Area e da **Impostazioni app** impostarlo ancora su **Vendite**.
 
-10. Per passare dall'app Vendite a un'altra app, ad esempio Hub del servizio clienti, selezionare il testo **Hub delle vendite** nell'angolo in alto a sinistra della schermata, accanto al testo Dynamic 365. 
+10. Per passare dall'app Vendite a un'altra app, ad esempio Hub del servizio clienti, selezionare il testo **Hub delle vendite** nell'angolo in alto a sinistra della schermata, accanto al testo Dynamics 365. 
 
 11. Verrà visualizzata la schermata App. Selezionare **Hub del servizio clienti** per passare all'applicazione Hub del servizio clienti. 
 

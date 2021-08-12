@@ -32,9 +32,9 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 	- **Argomento:** Vogliono aggiornare le attrezzature esistenti - Proprie iniziali
 
-	- **Account:** Adventure Works
+	- **Contatto:** Jay Klein
 
-	- **Contatto:** Jim Glynn
+	- **Account:** Northwind Traders
 
 	- **Intervallo di tempo acquisti:** Trimestre corrente
 
@@ -68,7 +68,7 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 13. Nella griglia secondaria Team di vendita selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Nuova connessione**. 
 
-14. Cercare e selezionare il record dell'utente. Al termine, fare clic sul pulsante **Aggiungi**. 
+14. Cercare e selezionare il record dell'utente. Al termine, selezionare il pulsante **Aggiungi**. 
 
 15. Nella griglia secondaria Concorrenti selezionare i **puntini di sospensione verticali**. Nel menu visualizzato selezionare **Aggiungi concorrente esistente**. 
 
@@ -78,13 +78,13 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 18. Selezionare il pulsante **Salva e chiudi**.
 
-19. **Coho Technologies** sarà selezionato nella finestra Cerca record. Fare clic sul pulsante **Aggiungi** per completare l'aggiunta del concorrente. 
+19. **Coho Technologies** sarà selezionato nella finestra Cerca record. Selezionare il pulsante **Aggiungi** per completare l'aggiunta del concorrente. 
 
-20. Fare clic per selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
+20. Selezionare la fase **Sviluppo** nel flusso del processo aziendale **Lead - opportunità**, quindi impostare entrambi i passaggi **Identifica parti interessate** e **Identifica concorrenti** su **Completato**. 
 
-21. Fare clic sul pulsante **Fase successiva** per passare alla fase **Proponi**.
+21. Selezionare il pulsante **Fase successiva** per passare alla fase **Proponi**.
 
-22. Nella fase **Proponi** contrassegnare tutti e quattro i passaggi come **completati** e fare clic sul pulsante **Fase successiva** per passare alla fase **Chiudi**. 
+22. Nella fase **Proponi** contrassegnare tutti e quattro i passaggi come **completati** e selezionare il pulsante **Fase successiva** per passare alla fase **Chiudi**. 
 
 23. Nella fase **Chiudi** contrassegnare i passaggi **Completa proposta finale**, **Presenta proposta finale**, **Invia nota di ringraziamento** e **Archivia debriefing** come **Completato**. 
 
@@ -94,4 +94,4 @@ In questo esercizio verrà illustrato come accedere alle diverse applicazioni Cu
 
 26. Dopo aver completato il processo aziendale, è necessario chiudere l'opportunità. Sulla **barra dei comandi** dell'opportunità selezionare il pulsante **Chiudi come acquisita**. 
 
-27. Nella schermata **Chiudi opportunità** fare clic sul pulsante **OK** per completare la chiusura del record dell'opportunità. 
+27. Nella schermata **Chiudi opportunità** selezionare il pulsante **OK** per completare la chiusura del record dell'opportunità. 
